@@ -9,10 +9,8 @@ P.S. You need to have a GPT-4 API key since GPT-3.5 would not work properly.
 
 *Prompt: a soccer ball to the right of a television and to the left of a cup, and they are all on a desk*
 
-**Stable Diffusion 2.1**
-
+**Stable Diffusion 2.1:**
 ![image](https://github.com/KevinWang676/ControlNet-with-GPT-4/assets/126712357/46fbfcb2-6820-4a98-945f-be3484277471)
 
-**ControlNet with GPT-4**
-
+**ControlNet with GPT-4:**
 ![image](https://github.com/KevinWang676/ControlNet-with-GPT-4/assets/126712357/7f6491b8-5b48-47cb-9987-419d0bfe5e5e)
