@@ -4,7 +4,7 @@ git+https://github.com/huggingface/accelerate
 opencv-contrib-python
 torch
 numpy
-xformers
+xformers==0.0.16
 openai
 cairosvg
 gradio==3.33.0
