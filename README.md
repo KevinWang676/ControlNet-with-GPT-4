@@ -22,4 +22,10 @@ P.S. You may need to have a GPT-4 API key since GPT-3.5 would not work properly.
 
 ## Gradio Interface
 
+**Colab Interface:**
+
 ![image](https://github.com/KevinWang676/ControlNet-with-GPT-4/assets/126712357/0ff99fb5-3bb0-46fe-af6a-348e262f0791)
+
+**Hugging Face Interface:**
+
+![916d1cb085564851de75dc67a18f8ef](https://github.com/KevinWang676/ControlNet-with-GPT-4/assets/126712357/ad3d5854-bd11-4273-aee7-481b03ba1a9e)
