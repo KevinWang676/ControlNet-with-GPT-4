@@ -2,12 +2,12 @@
 ## 🌟 Born to Create: Controllable Text-to-Image Generation with GPT-4
 
 ### Quick start: [Colab Notebook](https://colab.research.google.com/github/KevinWang676/ControlNet-with-GPT-4/blob/main/ControlNet_with_GPT_4.ipynb) ⚡
-### Hugging Face demo: [ControlNet with GPT-4](https://huggingface.co/spaces/kevinwang676/ControlNet-GPT-4)
+### Hugging Face demo: [ControlNet with GPT-4](https://huggingface.co/spaces/kevinwang676/ControlNet-GPT-4) 🤗
 
 GPT-4 can generate code from a prompt, which can be rendered as an image, in a way that is true to the
 instructions to a higher degree of accuracy. This project is inspired by the [paper](https://arxiv.org/abs/2303.12712) - *Sparks of Artificial General Intelligence: Early experiments with GPT-4*.
 
-P.S. You may need to have a GPT-4 API key since GPT-3.5 would not work properly.
+P.S. You may need to have a GPT-4 API key since GPT-3.5 would not work properly. If you would like to run 'app.py'
 
 ## Comparison between Stable Diffusion 2.1 and ControlNet with GPT-4
 
