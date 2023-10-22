@@ -8,7 +8,7 @@ instructions to a higher degree of accuracy. This project is inspired by the [pa
 
 P.S. You may need to have a GPT-4 API key since GPT-3.5 would not work properly.
 
-## Comparison between ControlNet with GPT-4 and Stable Diffusion 2.1
+## Comparison between Stable Diffusion 2.1 and ControlNet with GPT-4
 
 *Prompt: a soccer ball to the right of a television and to the left of a cup, and they are all on a desk*
 
