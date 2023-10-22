@@ -6,7 +6,7 @@
 GPT-4 can generate code from a prompt, which can be rendered as an image, in a way that is true to the
 instructions to a higher degree of accuracy. This project is inspired by the [paper](https://arxiv.org/abs/2303.12712) - *Sparks of Artificial General Intelligence: Early experiments with GPT-4*.
 
-P.S. You need to have a GPT-4 API key since GPT-3.5 would not work properly.
+P.S. You may need to have a GPT-4 API key since GPT-3.5 would not work properly.
 
 ## Comparison between ControlNet with GPT-4 and Stable Diffusion 2.1
 
