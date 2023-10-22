@@ -19,3 +19,6 @@ P.S. You may need to have a GPT-4 API key since GPT-3.5 would not work properly.
 **ControlNet with GPT-4:**
 
 ![image](https://github.com/KevinWang676/ControlNet-with-GPT-4/assets/126712357/24f89c70-6e17-4c4f-b383-f882e4855936)
+
+**Gradio Interface:**
+![image](https://github.com/KevinWang676/ControlNet-with-GPT-4/assets/126712357/0ff99fb5-3bb0-46fe-af6a-348e262f0791)
