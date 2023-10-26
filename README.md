@@ -8,13 +8,17 @@ GPT-4 can generate code from a prompt, which can be rendered as an image, in a w
 
 P.S. You may need to have a GPT-4 API key since GPT-3.5 would not work properly. If you would like to run `app.py` locally, you need to specify `torch==1.13.1` in [`requirements.txt`](https://github.com/KevinWang676/ControlNet-with-GPT-4/blob/main/requirements.txt).
 
-## Comparison of Stable Diffusion 2.1, Dalle-3 DALL-E 3 and ControlNet with GPT-4
+## Comparison of Stable Diffusion 2.1, DALL-E 3, and ControlNet with GPT-4
 
 *Prompt: a soccer ball to the right of a television and to the left of a cup, and they are all on a desk*
 
 **Stable Diffusion 2.1:**
 
 ![image](https://github.com/KevinWang676/ControlNet-with-GPT-4/assets/126712357/46fbfcb2-6820-4a98-945f-be3484277471)
+
+**DALL-E 3:**
+
+![image](https://github.com/KevinWang676/ControlNet-with-GPT-4/assets/126712357/17c8c5dc-533d-457d-bad5-639fb171832d)
 
 **ControlNet with GPT-4:**
 
